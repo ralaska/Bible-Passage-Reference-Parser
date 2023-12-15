@@ -38,7 +38,7 @@ npm i bible-passage-reference-parser
 To run:
 
 ```javascript
-var bcv_parser = require("bible-passage-reference-parser/js/en_bcv_parser").bcv_parser;
+var bcv_parser = (await import("bible-passage-reference-parser/js/en_bcv_parser")).bcv_parser;
 var bcv = new bcv_parser;
 ```
 
