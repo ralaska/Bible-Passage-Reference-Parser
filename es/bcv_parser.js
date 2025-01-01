@@ -2019,6 +2019,6 @@ const bcv = new bcv_parser(lang);`;
     return this.regexps_manager.add_passage_patterns(patterns);
   }
 };
-// export {
-//   bcv_parser
-// };
+export {
+  bcv_parser
+};
