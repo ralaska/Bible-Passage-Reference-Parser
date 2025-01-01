@@ -5570,8 +5570,8 @@ function peg$parse(input, options) {
 var regexps = bcv_regexps;
 var translations = bcv_translations;
 var grammar = { parse: peg$parse };
-export {
-  grammar,
-  regexps,
-  translations
-};
+// export {
+//   grammar,
+//   regexps,
+//   translations
+// };
