@@ -50,7 +50,7 @@ if [ "$1" = "en" ]; then
 fi
 
 # Uncomment this line to build a minified file in `es`.
-#npx esbuild ./build/bcv_parser.ts --bundle --minify --target=es2022 --charset=utf8 --format=esm --outfile=../es/$1_bcv_parser.min.js
+npx esbuild ./build/bcv_parser.ts --bundle --minify --target=es2022 --charset=utf8 --format=esm --outfile=../es/$1_bcv_parser.min.js
 
 # Clean up build files.
 rm ./build/*
