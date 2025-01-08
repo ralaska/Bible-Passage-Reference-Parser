@@ -56,4 +56,4 @@ npx esbuild ./build/bcv_parser.ts --bundle --minify --target=es2022 --charset=ut
 rm ./build/*
 
 # Run tests.
-npx jasmine ../test/lang/$1.spec.js
+npx jasmine ../test/lang/$1.spec.js --random=false
