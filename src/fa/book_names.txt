@@ -93,7 +93,6 @@
 1Chr	1Chr
 1Chr	1tow
 1Chr	1توا
-1Chr	اولت
 1Chr	۱tow
 1Chr	1تو
 1Chr	۱تو
@@ -989,6 +988,76 @@
 1Pet	1پط
 1Pet	۱pt
 1Pet	۱پت
+1Pet	اول پترس
+1Pet	اول پترس‌ها
+1Pet	اول پترس-ها
+1Pet	اول پترسی
+1Pet	اول پترسی‌ها
+1Pet	اول پترسی-ها
+1Pet	اول پترس‌نامه
+1Pet	اول پترس‌نامه‌ها
+1Pet	اول پترس‌نامه‌ی
+1Pet	اول پترس‌نامه‌ای
+1Pet	اول پطرس‌ها
+1Pet	اول پطرس-ها
+1Pet	اول پطرسی‌ها
+1Pet	اول پطرسی-ها
+1Pet	اول پطرس‌نامه
+1Pet	اول پطرس‌نامه‌ها
+1Pet	اول پطرس‌نامه‌ی
+1Pet	اول پطرس‌نامه‌ای
+1Pet	اول پترس مقدس
+1Pet	اول پترس رسول
+1Pet	اولین نامه به پترس
+1Pet	نامه اول پترس
+1Pet	رساله اول پترس
+1Pet	کتاب اول پترس
+1Pet	پیام پترس اول
+1Pet	موعظه پترس اول
+1Pet	پندهای پترس اول
+1Pet	درس‌های پترس اول
+1Pet	فرمان اول پترس
+1Pet	اولین پترس
+1Pet	اول پطرس مقدس
+1Pet	کتاب اول پطرس
+1Pet	نامه اول پطرس
+1Pet	رساله اول پطرس
+1Pet	پیام اول پطرس
+1Pet	درس‌های پطرس اول
+1Pet	AvvalPetros
+1Pet	AvvalPetrus
+1Pet	AvvalPtr
+1Pet	AvvalPetras
+1Pet	AvvalPatros
+1Pet	YekPetros
+1Pet	YekPet
+1Pet	YekPetrus
+1Pet	YekPeter
+1Pet	YekPtr
+1Pet	YekPetras
+1Pet	YekPeters
+1Pet	AvvalPetrosi
+1Pet	AvvalPetrasi
+1Pet	YekPetrasi
+1Pet	1stPeter
+1Pet	1stPetros
+1Pet	اولپت
+1Pet	اولپتر
+1Pet	اولپطر
+1Pet	۱پ
+1Pet	۱پتر
+1Pet	اول پترس‌نامه‌ی‌ها
+1Pet	اول پترس‌نامه‌اش
+1Pet	اول پترس‌نامه‌هات
+1Pet	اول پترس‌نامه‌شان
+1Pet	اول پترس‌نامه‌هاتان
+1Pet	اول پترس‌نامه‌گان
+1Pet	اول پطرس‌نامه‌ی‌ها
+1Pet	اول پطرس‌نامه‌اش
+1Pet	اول پطرس‌نامه‌هات
+1Pet	اول پطرس‌نامه‌شان
+1Pet	اول پطرس‌نامه‌گان
+1Pet	اول پطرس‌نامه‌گی‌ها
 1Sam	Avval Samoweyl
 1Sam	Avval samoweyl
 1Sam	Avval Samoeil
@@ -1529,6 +1598,106 @@
 1Tim	1تی
 1Tim	۱tī
 1Tim	۱تی
+1Tim	اول تیموتاؤس
+1Tim	اول تیموتاؤس‌ها
+1Tim	اول تیموتاؤس-ها
+1Tim	اول تیموتاؤسی
+1Tim	اول تیموتاؤسی‌ها
+1Tim	اول تیموتاؤسی-ها
+1Tim	اول تیموتاؤسیان
+1Tim	اول تیموتاؤسی‌نامه
+1Tim	اول تیموتاؤسی‌نامه‌ها
+1Tim	اول تیموتاؤسی‌نامه‌ی
+1Tim	اول تیموتاؤسی‌نامه‌ای
+1Tim	اول تیموتا
+1Tim	اول تیموت
+1Tim	اول تیموتاؤس رسول
+1Tim	رساله اول تیموتاؤس
+1Tim	نامه اول تیموتاؤس
+1Tim	کتاب اول تیموتاؤس
+1Tim	پولُس به تیموتاؤس اول
+1Tim	اول تیموتاؤس مقدس
+1Tim	پیام تیموتاؤس اول
+1Tim	آیات تیموتاؤس اول
+1Tim	موعظه اول تیموتاؤس
+1Tim	اول تیموتاؤس نبی
+1Tim	کتاب تیموتاؤس اول
+1Tim	اول تیموتاؤس‌نامه‌ها
+1Tim	اول تیموتاؤس‌نامه‌ی‌ها
+1Tim	اول تیموتاؤس‌نامه‌هات
+1Tim	اول تیموتاؤس‌نامه‌شان
+1Tim	اول تیموتاؤسی‌های‌شان
+1Tim	اول تیموتاؤس‌نامه‌گی‌ها
+1Tim	اول تیموتاؤس‌های‌شان
+1Tim	اول تیموتاؤس‌نامه‌هاتان
+1Tim	اوُل تیموتاؤس
+1Tim	اوّل تیموتاؤس
+1Tim	اوَل تیموتاؤس
+1Tim	اول تیمُتاؤس
+1Tim	اول تیمُوتاوس
+1Tim	اوَل تیموتاؤسی
+1Tim	اوَل تیموتاؤسی‌ها
+1Tim	اوَل تیموتاؤس-ها
+1Tim	اوُل تیموتاؤسی‌ها
+1Tim	AvvalTimotheos
+1Tim	YekTimothy
+1Tim	YekTimotheos
+1Tim	Timotheos
+1Tim	Timoteous
+1Tim	Timotheus
+1Tim	YekTim
+1Tim	نامه پولُس به تیموتاؤس
+1Tim	اولین نامه به تیموتاؤس
+1Tim	کتاب مقدس تیموتاؤس
+1Tim	رساله اول پولُس به تیموتاؤس
+1Tim	پندهای تیموتاؤس
+1Tim	درس‌های تیموتاؤس اول
+1Tim	پیام اول تیموتاؤس
+1Tim	نامه الهام‌شده به تیموتاؤس
+1Tim	فرمان اول تیموتاؤس
+1Tim	یادداشت تیموتاؤس اول
+1Tim	اول تیم
+1Tim	اول تیمو
+1Tim	اول تیموتاؤ
+1Tim	۱تیمو
+1Tim	۱تیموت
+1Tim	۱تیموتاؤ
+1Tim	اول تيموتيوس
+1Tim	اول تيموتيوس‌ها
+1Tim	اول تيموتيوس-ها
+1Tim	اول تيموتيوسی
+1Tim	اول تيموتيوسی‌ها
+1Tim	اول تيموتيوسی-ها
+1Tim	اول تيموتيوس‌نامه
+1Tim	اول تيموتيوس‌نامه‌ها
+1Tim	اول تيموتيوس‌نامه‌ی
+1Tim	اول تيموتيوس‌نامه‌ای
+1Tim	اوّل تيموتيوس
+1Tim	اوُل تيموتيوس
+1Tim	اوَل تيموتيوس
+1Tim	اول تيموتيوس مقدس
+1Tim	اول تيموتيوس رسول
+1Tim	کتاب اول تيموتيوس
+1Tim	رساله اول تيموتيوس
+1Tim	نامه اول تيموتيوس
+1Tim	پولُس به تيموتيوس اول
+1Tim	پیام تيموتيوس اول
+1Tim	درس‌های تيموتيوس اول
+1Tim	موعظه اول تيموتيوس
+1Tim	فرمان اول تيموتيوس
+1Tim	اولين نامه به تيموتيوس
+1Tim	اولين تيموتيوس
+1Tim	اول تيموتيو
+1Tim	کتاب مقدس تيموتيوس اول
+1Tim	اوّل تيموتيوسی
+1Tim	اوَل تيموتيو
+1Tim	اوَل تيموتيوسی
+1Tim	اوُل تيموتيوسی
+1Tim	AvvalTīm
+1Tim	AvvalTīmutāus
+1Tim	YekTimoteous
+1Tim	YekTimotaos
+1Tim	اوّل
 2Chr	dovvom tawārikh
 2Chr	Dovom Tawarikh
 2Chr	Dovom Towarikh
@@ -1619,7 +1788,6 @@
 2Chr	2Chr
 2Chr	2tow
 2Chr	2توا
-2Chr	دومت
 2Chr	۲tow
 2Chr	2تو
 2Chr	۲تو
@@ -2515,6 +2683,78 @@
 2Pet	2پط
 2Pet	۲pt
 2Pet	۲پت
+2Pet	دوم پترس
+2Pet	دوم پترس‌ها
+2Pet	دوم پترس-ها
+2Pet	دوم پترسی
+2Pet	دوم پترسی‌ها
+2Pet	دوم پترسی-ها
+2Pet	دوم پترس‌نامه
+2Pet	دوم پترس‌نامه‌ها
+2Pet	دوم پترس‌نامه‌ی
+2Pet	دوم پترس‌نامه‌ای
+2Pet	دوم پطرس‌ها
+2Pet	دوم پطرس-ها
+2Pet	دوم پطرسی‌ها
+2Pet	دوم پطرسی-ها
+2Pet	دوم پطرس‌نامه
+2Pet	دوم پطرس‌نامه‌ها
+2Pet	دوم پطرس‌نامه‌ی
+2Pet	دوم پطرس‌نامه‌ای
+2Pet	دوم پترس مقدس
+2Pet	دوم پترس رسول
+2Pet	دومین نامه به پترس
+2Pet	نامه دوم پترس
+2Pet	رساله دوم پترس
+2Pet	کتاب دوم پترس
+2Pet	پیام پترس دوم
+2Pet	موعظه پترس دوم
+2Pet	پندهای پترس دوم
+2Pet	درس‌های پترس دوم
+2Pet	فرمان دوم پترس
+2Pet	دومین پترس
+2Pet	دوم پطرس مقدس
+2Pet	کتاب دوم پطرس
+2Pet	نامه دوم پطرس
+2Pet	رساله دوم پطرس
+2Pet	پیام دوم پطرس
+2Pet	درس‌های پطرس دوم
+2Pet	DovomPetros
+2Pet	DovomPetrus
+2Pet	DovomPtr
+2Pet	DovomPetras
+2Pet	DovomPatros
+2Pet	DoPetros
+2Pet	DoPet
+2Pet	DoPetrus
+2Pet	DoPeter
+2Pet	DoPtr
+2Pet	DoPetras
+2Pet	DoPeters
+2Pet	DoPatros
+2Pet	DoPatras
+2Pet	DoPtrus
+2Pet	SecondPeter
+2Pet	SecondPetros
+2Pet	2ndPeter
+2Pet	2ndPetros
+2Pet	دومپت
+2Pet	دومپتر
+2Pet	دومپطر
+2Pet	۲پ
+2Pet	۲پتر
+2Pet	دوم پترس‌نامه‌ی‌ها
+2Pet	دوم پترس‌نامه‌اش
+2Pet	دوم پترس‌نامه‌هات
+2Pet	دوم پترس‌نامه‌شان
+2Pet	دوم پترس‌نامه‌هاتان
+2Pet	دوم پترس‌نامه‌گان
+2Pet	دوم پطرس‌نامه‌ی‌ها
+2Pet	دوم پطرس‌نامه‌اش
+2Pet	دوم پطرس‌نامه‌هات
+2Pet	دوم پطرس‌نامه‌شان
+2Pet	دوم پطرس‌نامه‌گان
+2Pet	دوم پطرس‌نامه‌گی‌ها
 2Sam	Dovom Samoweyl
 2Sam	Dovom samoweyl
 2Sam	dovvom samu'īl
@@ -2955,6 +3195,7 @@
 2Thess	۲ts
 2Thess	۲تس
 2Tim	dovvom tīmutā'ūs
+2Tim	دوم تیموتاؤس
 2Tim	dovvom tīmutā’ūs
 2Tim	DovomTimothaeus
 2Tim	DovomTimothaios
@@ -3050,6 +3291,57 @@
 2Tim	2تی
 2Tim	۲tī
 2Tim	۲تی
+2Tim	دوم تیم
+2Tim	دوم تیمو
+2Tim	دوم تیموت
+2Tim	دوم تیموتاؤ
+2Tim	۲تیمو
+2Tim	۲تیموت
+2Tim	۲تیموتاؤ
+2Tim	۲ت
+2Tim	۲ تیم
+2Tim	۲ تیمو
+2Tim	۲ تیموت
+2Tim	۲ تیموتاؤ
+2Tim	دوم تيموتيوس
+2Tim	دوم تيموتيوس‌ها
+2Tim	دوم تيموتيوس-ها
+2Tim	دوم تيموتيوسی
+2Tim	دوم تيموتيوسی‌ها
+2Tim	دوم تيموتيوسی-ها
+2Tim	دوم تيموتيوس‌نامه
+2Tim	دوم تيموتيوس‌نامه‌ها
+2Tim	دوم تيموتيوس‌نامه‌ی
+2Tim	دوم تيموتيوس‌نامه‌ای
+2Tim	دوّم تيموتيوس
+2Tim	دوُم تيموتيوس
+2Tim	دوَم تيموتيوس
+2Tim	دوم تيموتيوس رسول
+2Tim	دوم تيموتيوس مقدس
+2Tim	کتاب دوم تيموتيوس
+2Tim	رساله دوم تيموتيوس
+2Tim	نامه دوم تيموتيوس
+2Tim	پولُس به تيموتيوس دوم
+2Tim	پیام تيموتيوس دوم
+2Tim	درس‌های تيموتيوس دوم
+2Tim	موعظه دوم تيموتيوس
+2Tim	فرمان دوم تيموتيوس
+2Tim	دومين نامه به تيموتيوس
+2Tim	دومين تيموتيوس
+2Tim	دوم تيموتيو
+2Tim	کتاب مقدس تيموتيوس دوم
+2Tim	دوّم تيموتيوسی
+2Tim	دوَم تيموتيو
+2Tim	دوَم تيموتيوسی
+2Tim	دوُم تيموتيوسی
+2Tim	DovvomTimotheos
+2Tim	DovvomTimothy
+2Tim	DovomTimotheos
+2Tim	DovomTīm
+2Tim	DovomTīmutāus
+2Tim	DoTimothy
+2Tim	2ndTimothy
+2Tim	دوّم
 3John	Sevom Yoohanaah
 3John	Sevom Yohanaah
 3John	Sevom Yohannah
@@ -3409,6 +3701,93 @@ Acts	a'm
 Acts	a’m
 Acts	اعم
 Acts	عمل
+Acts	کارهای رسولان
+Acts	کارهای رسولین
+Acts	کارهای رسول‌ها
+Acts	کارهای رسولا
+Acts	کارهای رسولا‌ها
+Acts	کارهای رسولا-ها
+Acts	کارهای رسول‌نامه
+Acts	کارهای رسول‌نامه‌ها
+Acts	کارهای رسول‌نامه‌ی
+Acts	کارهای رسول‌نامه‌ای
+Acts	کارهای رسول
+Acts	کارهای رسولی
+Acts	کارهای رسولیان
+Acts	کارهای رسولی‌ها
+Acts	اعمال رسولان مقدس
+Acts	کتاب اعمال رسولان
+Acts	رساله اعمال رسولان
+Acts	کارهای رسولان الهی
+Acts	کتاب مقدس رسولان
+Acts	کتاب اعمال رسولین
+Acts	کتاب کارهای رسولان
+Acts	اعمال رسولان در کتاب مقدس
+Acts	رساله اعمال رسولان مقدس
+Acts	کتاب کارهای رسولین
+Acts	داستان رسولان مقدس
+Acts	اعمال مقدس رسولان
+Acts	کتاب پیام‌های رسولان
+Acts	اعمال پیام‌آوران
+Acts	کارهای الهی رسولان
+Acts	حکایات رسولان
+Acts	کارنامه رسولان
+Acts	کارهای رسولان‌ها
+Acts	کارهای رسولان‌نامه‌ها
+Acts	کارهای رسولان‌نامه‌ی‌ها
+Acts	کارهای رسولان‌نامه‌اش
+Acts	کارهای رسولان‌نامه‌هات
+Acts	کارهای رسولان‌نامه‌شان
+Acts	کارهای رسولان‌نامه‌هاتان
+Acts	کارهای رسولان‌های‌شان
+Acts	کارهای رسولان‌نامه‌گی‌ها
+Acts	کارهای رسولان‌هات
+Acts	کارهای رسولان‌نامه‌گان
+Acts	کارهای رسولان‌هات‌ها
+Acts	کارهای رُسولان
+Acts	کارهای رَسولان
+Acts	کارهای رَسولا
+Acts	کارهای رَسولا‌ها
+Acts	کارنامه‌های رسولان
+Acts	کارهای رَسول‌ها
+Acts	کارنامه رسول‌ها
+Acts	اعمال رَسولان
+Acts	اعمال رَسولین
+Acts	اعمال رسول
+Acts	کارهای رَسولی
+Acts	کارهای رَسولان‌نامه
+Acts	Karhay e Rasulan
+Acts	Karhay-e-Rasulan
+Acts	Karhay Rasulan
+Acts	Karhaye Rasulan
+Acts	Karhay Rasulanha
+Acts	Karhaye Rasul
+Acts	Karha e Rasulan
+Acts	Karha-e-Rasulan
+Acts	Karhay e Rusulan
+Acts	Karhay-e-Rusulan
+Acts	Karhaye Rusulan
+Acts	Karhay Rusul
+Acts	Karhay Rusulha
+Acts	Karhaye Rusul
+Acts	Karhaye Rasoolan
+Acts	Karhay Rasool
+Acts	Karhay e Rasoolan
+Acts	Karhay-e-Rasoolan
+Acts	Karha e Rasool
+Acts	Karha-e-Rasool
+Acts	Karhay Rusool
+Acts	Karhaye Rasoolha
+Acts	Karhaye Rasulanha
+Acts	Karhay Rasulan-haa
+Acts	کار رسول
+Acts	کار رسولان
+Acts	کار ر
+Acts	ک ر
+Acts	اعمال ر
+Acts	کارهای ر
+Acts	کارنامه ر
+Acts	کارنامه رسول
 Amos	عامووسسیی
 Amos	عاموووسسس
 Amos	عاموووسیی
@@ -3496,6 +3875,111 @@ Col	کولو
 Col	Col
 Col	kūl
 Col	کول
+Col	کولوسيان
+Col	کولوسيان‌ها
+Col	کولوسيان-ها
+Col	کولوسيانی
+Col	کولوسيانی‌ها
+Col	کولوسيانی-ها
+Col	کولوسيان‌نامه
+Col	کولوسيان‌نامه‌ها
+Col	کولوسيان‌نامه‌ی
+Col	کولوسيان‌نامه‌ای
+Col	کولُسیان‌ها
+Col	کولُسیان-ها
+Col	کولُسیانی
+Col	کولُسیانی‌ها
+Col	کولُسیانی-ها
+Col	کولُسیان‌نامه
+Col	کولُسیان‌نامه‌ها
+Col	کولُسیان‌نامه‌ی
+Col	کولُسیان‌نامه‌ای
+Col	کلوسيان
+Col	کلوسيان‌ها
+Col	کلوسيان-ها
+Col	کلوسيانی
+Col	کلوسيانی‌ها
+Col	کلوسيانی-ها
+Col	کلوسيان‌نامه
+Col	کلوسيان‌نامه‌ها
+Col	کلوسيان‌نامه‌ی
+Col	کلوسيان‌نامه‌ای
+Col	کولسيون
+Col	کولسيون‌ها
+Col	کولسيون-ها
+Col	کولسيانی
+Col	کولسيونی
+Col	کولسيون‌نامه
+Col	کولسيون‌نامه‌ها
+Col	کولسيون‌نامه‌ی
+Col	کولسيون‌نامه‌ای
+Col	Kolusiyan
+Col	Colossian
+Col	Kolosiyan
+Col	Kolosiyanian
+Col	Colusiyan
+Col	Colossiyun
+Col	Kolosiyoon
+Col	Kolosiyanun
+Col	Kolusiyanun
+Col	Kolosiy
+Col	Kolossiy
+Col	Kolusiyans
+Col	Colusian
+Col	Kūlūsiān
+Col	Kūlusiyān
+Col	Kolussiyan
+Col	Kulusiy
+Col	Kolossianian
+Col	Kolosia
+Col	Kūlosiyan
+Col	Kūlosian
+Col	Kalossiyan
+Col	Colūsiyān
+Col	کتاب کولوسيان
+Col	رساله کولوسيان
+Col	نامه کولوسيان
+Col	پیام کولوسيان
+Col	سخنان کولوسيان
+Col	کتاب کولُسیان
+Col	رساله کولُسیان
+Col	نامه کولُسیان
+Col	پیام کولُسیان
+Col	سخنان کولُسیان
+Col	کتاب پیام‌های کولوسيان
+Col	کتاب پیام‌های کولُسیان
+Col	حکایت کولوسيان
+Col	کولوسيان‌نامه‌ی‌ها
+Col	کولوسيان‌نامه‌هات
+Col	کولوسيان‌نامه‌شان
+Col	کولوسيان‌نامه‌هاتان
+Col	کولوسيان‌نامه‌گان
+Col	کولوسيان‌نامه‌گی‌ها
+Col	کولُسیان‌نامه‌ی‌ها
+Col	کولُسیان‌نامه‌هات
+Col	کولُسیان‌نامه‌شان
+Col	کولُسیان‌نامه‌گان
+Col	کولُسیان‌نامه‌گی‌ها
+Col	کُلوسيان
+Col	کُلوسيون
+Col	کُلوسيون‌ها
+Col	کُلوسيون-ها
+Col	کُلوسيون‌نامه
+Col	کُلوسيان‌نامه
+Col	کُلوسيون‌نامه‌ها
+Col	کُلوسيان‌نامه‌ها
+Col	کولوسيون
+Col	کولوسيون‌ها
+Col	کولوسيون-ها
+Col	کولوسيون‌نامه
+Col	کولوسيون‌نامه‌ها
+Col	کولُسيون
+Col	کل
+Col	کُل
+Col	کل‌نامه
+Col	کُل‌نامه
+Col	کلوس
+Col	کولس
 Dan	Daniyaelh
 Dan	Daniyailh
 Dan	دانيائلله
@@ -3572,6 +4056,48 @@ Deut	tsn
 Deut	تثن
 Deut	ts
 Deut	تث
+Deut	تثنييه
+Deut	تثني
+Deut	تثنییه
+Deut	تثنی‌یه
+Deut	تثنـیه
+Deut	تثنی-یه
+Deut	تثنـييه
+Deut	تثني-یه
+Deut	تثنيیه
+Deut	تثنيـیه
+Deut	تثنيي-ه
+Deut	تسنييه
+Deut	تسنئه
+Deut	تسنیـیه
+Deut	تسنیه‌ها
+Deut	تثنيه‌ها
+Deut	تثنی‌ها
+Deut	Dt
+Deut	Tesn
+Deut	Tessn
+Deut	Tsn
+Deut	تثـ
+Deut	Dtrnmy
+Deut	Tess
+Deut	Tsn-ieh
+Deut	Tesn-ie
+Deut	Deut-ieh
+Deut	Dt-ie
+Deut	Tessnyh
+Deut	Tessiyh
+Deut	تثنـها
+Deut	تثنيـها
+Deut	تثني-ها
+Deut	تثني-ها-ها
+Deut	تثني--ها
+Deut	تثنيها-ها
+Deut	Tesn-ha
+Deut	Tsn-ha
+Deut	تصنیه-ها
+Deut	Tessnie
+Deut	Tessieh
+Deut	تصنیـیه
 Eccl	kolliyāt
 Eccl	Jam aeh
 Eccl	Jama'ah
@@ -3583,7 +4109,6 @@ Eccl	jāme’eh
 Eccl	Jam ae
 Eccl	Jam'ah
 Eccl	Jam'at
-Eccl	Jam3ah
 Eccl	Jama'a
 Eccl	Jamaah
 Eccl	Jamaih
@@ -3598,7 +4123,6 @@ Eccl	جامعهی
 Eccl	جامعیه
 Eccl	جامـعه
 Eccl	Jam'a
-Eccl	Jam3a
 Eccl	Jamaa
 Eccl	Jam’a
 Eccl	jāme'
@@ -3618,6 +4142,7 @@ EpJer	Epistle of Jeremiah
 EpJer	Ep Jer
 EpJer	EpJer
 Eph	Afisisiyanians
+Eph	اَفِسُسیان
 Eph	Afissiyunians
 Eph	Afisiyunians
 Eph	Afesisiyan
@@ -3670,6 +4195,90 @@ Eph	افسو
 Eph	Eph
 Eph	afs
 Eph	افس
+Eph	افسسيان
+Eph	افسسيان‌ها
+Eph	افسسيان-ها
+Eph	افسسياني
+Eph	افسسياني‌ها
+Eph	افسسياني-ها
+Eph	افسسيان‌نامه
+Eph	افسسيان‌نامه‌ها
+Eph	افسسيان‌نامه‌ی
+Eph	افسسيان‌نامه‌ای
+Eph	اَفِسسيان
+Eph	اَفِسسيان‌ها
+Eph	اَفِسسيان-ها
+Eph	اَفِسسياني
+Eph	اَفِسسيوني
+Eph	اَفِسسيان‌نامه
+Eph	افِسسيان
+Eph	افِسسيان‌ها
+Eph	افِسسيان-ها
+Eph	افِسسياني
+Eph	افِسسياني‌ها
+Eph	افِسسياني-ها
+Eph	افسسي
+Eph	افسسي‌ها
+Eph	افسسي‌نامه
+Eph	افسسي‌نامه‌ها
+Eph	افسسي‌نامه‌ی
+Eph	افسسي‌نامه‌ای
+Eph	افِسيان
+Eph	افِسيان‌ها
+Eph	افِسيان-ها
+Eph	افِسياني
+Eph	افِسيوني
+Eph	افِسيان‌نامه
+Eph	افِسيان‌نامه‌ها
+Eph	افِسيان‌نامه‌ی
+Eph	افِسيان‌نامه‌ای
+Eph	Afesiyan
+Eph	Afesiyun
+Eph	Afisiyan
+Eph	Afesiyanian
+Eph	Afso
+Eph	Afsiyan
+Eph	Afesiān
+Eph	Afssiyan
+Eph	Afesyan
+Eph	Afissian
+Eph	Afessiyan
+Eph	Afsiyoon
+Eph	کتاب افسسيان
+Eph	رساله افسسيان
+Eph	نامه افسسيان
+Eph	پیام افسسيان
+Eph	سخنان افسسيان
+Eph	کتاب افِسسيان
+Eph	رساله افِسسيان
+Eph	نامه افِسسيان
+Eph	پیام افِسسيان
+Eph	سخنان افِسسيان
+Eph	کتاب پیام‌های افسسيان
+Eph	کتاب پیام‌های افِسسيان
+Eph	حکایت افسسيان
+Eph	افسسيان‌نامه‌ی‌ها
+Eph	افسسيان‌نامه‌هات
+Eph	افسسيان‌نامه‌شان
+Eph	افسسيان‌نامه‌هاتان
+Eph	افسسيان‌نامه‌گان
+Eph	افسسيان‌نامه‌گی‌ها
+Eph	افِسسيان‌نامه‌ها
+Eph	افِسسيان‌نامه‌ی‌ها
+Eph	افِسسيان‌نامه‌هات
+Eph	افِسسيان‌نامه‌شان
+Eph	افِسسيان‌نامه‌گان
+Eph	اَفِسسيون
+Eph	اَفِسسي
+Eph	افسسيون
+Eph	افسسيون‌ها
+Eph	افسسيون-ها
+Eph	افسسيوني
+Eph	افسسيون‌نامه
+Eph	افسسيون‌نامه‌ها
+Eph	افس‌نامه
+Eph	افس‌ن
+Eph	افسی
 Esth	Estehr
 Esth	Esther
 Esth	esterh
@@ -3875,6 +4484,87 @@ Gal	غلطیه
 Gal	غلاط
 Gal	Gal
 Gal	غلا
+Gal	غلطيان
+Gal	غلطيان‌ها
+Gal	غلطيان-ها
+Gal	غلطيانی
+Gal	غلطيانی‌ها
+Gal	غلطيانی-ها
+Gal	غلطيان‌نامه
+Gal	غلطيان‌نامه‌ها
+Gal	غلطيان‌نامه‌ی
+Gal	غلطيان‌نامه‌ای
+Gal	غلطيه
+Gal	غلطيه‌ها
+Gal	غلطيه-ها
+Gal	غلاطيان
+Gal	غلاطيان‌ها
+Gal	غلاطيان-ها
+Gal	غلاطيانی
+Gal	غلاطيانی‌ها
+Gal	غلاطيانی-ها
+Gal	غلاطيه
+Gal	غلاطيه‌ها
+Gal	غلاطيه-ها
+Gal	غلطيون
+Gal	غلطيون‌ها
+Gal	غلطيون-ها
+Gal	غلطیان‌ها
+Gal	غلطیان-ها
+Gal	غل
+Gal	غلظ
+Gal	Ghalatyan
+Gal	Galatyan
+Gal	Galatiyan
+Gal	Ghalatyon
+Gal	Galatyon
+Gal	Galatianian
+Gal	Ghalatiun
+Gal	Galatiun
+Gal	Galatianun
+Gal	Galatianians
+Gal	Ghalatians
+Gal	Ghalātīān
+Gal	Galat
+Gal	ghalāti
+Gal	کتاب غلطيان
+Gal	رساله غلطيان
+Gal	نامه غلطيان
+Gal	پیام غلطيان
+Gal	سخنان غلطيان
+Gal	کتاب غلاطيان
+Gal	رساله غلاطيان
+Gal	نامه غلاطيان
+Gal	پیام غلاطيان
+Gal	سخنان غلاطيان
+Gal	حکایت غلطيان
+Gal	کتاب پیام‌های غلطيان
+Gal	کتاب پیام‌های غلاطيان
+Gal	غلطيان‌نامه‌ی‌ها
+Gal	غلطيان‌نامه‌هات
+Gal	غلطيان‌نامه‌شان
+Gal	غلطيان‌نامه‌هاتان
+Gal	غلطيان‌نامه‌گان
+Gal	غلطيان‌نامه‌گی‌ها
+Gal	غلطيانی‌نامه
+Gal	غلطيانی‌نامه‌ها
+Gal	غلطيانی‌نامه‌ی
+Gal	غَلطيان
+Gal	غَلطيون
+Gal	غَلطيون‌ها
+Gal	غَلطيون-ها
+Gal	غَلطيه
+Gal	غَلطيه‌ها
+Gal	غَلطيه-ها
+Gal	غَلطيه‌نامه
+Gal	غَلطيه‌نامه‌ها
+Gal	غَلطيون‌نامه
+Gal	غَلطيون‌نامه‌ها
+Gal	غَلطيه‌ی
+Gal	غلط
+Gal	غل‌نامه
+Gal	غلط‌نامه
+Gal	غلاط‌نامه
 Gen	Pedaiyeshh
 Gen	Pedaiyishe
 Gen	Pidaayishe
@@ -3975,6 +4665,7 @@ Hab	حبقو
 Hab	Hab
 Hab	حبق
 Hag	حَجَّیہئة
+Hag	حَجَّی
 Hag	حَجَّیہئۀ
 Hag	حَجَّیہئہ
 Hag	حَجَّیہئۂ
@@ -4009,6 +4700,108 @@ Hag	حجیی
 Hag	Hag
 Hag	حجا
 Hag	حجی
+Hag	حَجّای
+Hag	حَجَّی
+Hag	حجای
+Hag	حَجّای‌ها
+Hag	حَجّای-ها
+Hag	حَجَّی‌ها
+Hag	حَجَّی-ها
+Hag	حَجّای‌ی
+Hag	حَجّای‌ای
+Hag	حَجَّی‌ی
+Hag	حَجَّی‌ای
+Hag	حجای‌ها
+Hag	حجای-ها
+Hag	حَجّایی
+Hag	حَجّایانه
+Hag	حَجَّیان
+Hag	حَجَّیه
+Hag	حَجَّیة
+Hag	حَجّاییه
+Hag	حَجّاییان
+Hag	حَجَّیات
+Hag	حَجَّی‌نامه
+Hag	حَجّای‌نامه
+Hag	حجای‌نامه
+Hag	Hajjay
+Hag	Haggāi
+Hag	Hajjāy
+Hag	Haggāy
+Hag	Hag’āi
+Hag	Hag’āy
+Hag	hajjāī
+Hag	hajjāīy
+Hag	Hajjiy
+Hag	Haggaii
+Hag	Haggai’y
+Hag	Haggai-ya
+Hag	Haggiya
+Hag	Haggay-ya
+Hag	Hag’ya
+Hag	Hag-ya
+Hag	haggā’ya
+Hag	haggāī’y
+Hag	Haggā’ya
+Hag	Haggāī’ya
+Hag	Haggāī-ya
+Hag	Hajjā-ya
+Hag	hajjī-ya
+Hag	hajjī’ya
+Hag	Hajjī-ya
+Hag	Hajjī’ya
+Hag	Hajjāī
+Hag	Hajjāī-ya
+Hag	haggā
+Hag	Haggā-y
+Hag	Haggāy-y
+Hag	حَجّایان
+Hag	حجایان
+Hag	حَجَّیی
+Hag	حجای‌ی
+Hag	حجای‌ای
+Hag	حجایه
+Hag	حَجَّیانه
+Hag	حجایانه
+Hag	حَجّای‌ها‌ی
+Hag	حَجَّی‌ها‌ی
+Hag	حجای‌ها‌ی
+Hag	حَجّی‌های
+Hag	حَجّی‌نامه‌ها
+Hag	حجای‌نامه‌ها
+Hag	حجایه‌ها
+Hag	حَجّیی‌ها
+Hag	حَجّی‌ها
+Hag	حَجّی‌نامه‌ی
+Hag	حَجّی‌ای
+Hag	حَجّی‌ی
+Hag	Hagy
+Hag	Hajai
+Hag	Hajjai
+Hag	Haggā’i
+Hag	Haggāy-i
+Hag	Hajjay-i
+Hag	Haggi-i
+Hag	Haggai-i
+Hag	Haggāy-ya
+Hag	Haggaiya
+Hag	Hajjay-ya
+Hag	Hajiyah
+Hag	Hajiyay
+Hag	Hagya
+Hag	Hag-i
+Hag	حَجّیان
+Hag	حَجّی‌نامه
+Hag	حَجّیان‌ها
+Hag	حَجّیان‌نامه
+Hag	حَجّای‌نامه‌ی
+Hag	حَجّی‌نامه‌نامه
+Hag	حَجّی‌نامه‌نامه‌ها
+Hag	حَجّی‌نامه-ها
+Hag	حَجّیان‌نامه‌ها
+Hag	حَجّیان‌نامه‌ی
+Hag	حَجّی‌نامه‌ای
+Hag	حَجّی‌نامه‌های
 Heb	Abraaniyaan
 Heb	Ebraaniyaan
 Heb	Ibraaniyaan
@@ -4105,6 +4898,102 @@ Hos	هوش؏
 Hos	هوشع
 Hos	Hos
 Hos	هوش
+Hos	هوزيا
+Hos	هوزياه
+Hos	هوزياها
+Hos	هوزيا-ها
+Hos	هوزيا‌ها
+Hos	هوزيايي
+Hos	هوزيایی
+Hos	هوزياي
+Hos	هوزياي-ها
+Hos	هوزياي‌ها
+Hos	هوزيائي
+Hos	هوزيائي-ها
+Hos	هوزيايان
+Hos	هوزيايانه
+Hos	هوزيات
+Hos	هوزيات-ها
+Hos	هوزيات‌ها
+Hos	هوزيايي‌ها
+Hos	هوزيايي-ها
+Hos	هوزيائي‌ها
+Hos	Hozia
+Hos	Hozaiah
+Hos	Hozayah
+Hos	Hoziaa
+Hos	Hoziya
+Hos	Hoziyah
+Hos	Hozia-ya
+Hos	Hozia-y
+Hos	Hozia’y
+Hos	Hoziyah-ha
+Hos	Hos’iyaa
+Hos	hushaia
+Hos	hushaiya
+Hos	هوشيا
+Hos	هوشياها
+Hos	هوشيا-ها
+Hos	هوشياي
+Hos	هوشيايي
+Hos	هوشيايي‌ها
+Hos	هوشيايي-ها
+Hos	هوشيايان
+Hos	هوشيايانه
+Hos	هوشيات
+Hos	هوشيات‌ها
+Hos	هوشيات-ها
+Hos	هوشعي
+Hos	هوشعي‌ها
+Hos	هوشعي-ها
+Hos	Hushia
+Hos	Hosha
+Hos	Hosha-i
+Hos	Hosha’y
+Hos	Husha-i
+Hos	Husha’y
+Hos	Hushia-y
+Hos	Hoshay-ya
+Hos	Hosha-i-ya
+Hos	Hosha-y-ya
+Hos	Husha-y-ya
+Hos	Husha-i-ya
+Hos	huzia
+Hos	huziaa
+Hos	huziah
+Hos	huzai
+Hos	huzaiy
+Hos	هوزيه
+Hos	هوزي
+Hos	هُوزيا
+Hos	هُوزي
+Hos	هُوشيا
+Hos	هوشي
+Hos	هوز
+Hos	هُوْزيا
+Hos	Huzia
+Hos	Hoseya
+Hos	Hoseiah
+Hos	Hosea’y
+Hos	Hoziah
+Hos	Hosiya
+Hos	Hoshiyah
+Hos	Hosiyah
+Hos	Hozaiyah
+Hos	Huzayah
+Hos	Husaiyah
+Hos	Hoziah-ha
+Hos	Hoziah-haa
+Hos	Hosaya
+Hos	Hosee-ya
+Hos	Hoseya-ha
+Hos	Hosia-ya
+Hos	Hosia’y
+Hos	Hushiya
+Hos	Hushiyah
+Hos	Hushi
+Hos	Hoshia
+Hos	Hoshu
 Isa	Eysha'iya
 Isa	Eysha'yaa
 Isa	Eyshaiyah
@@ -4165,7 +5054,6 @@ Isa	Eshaya
 Isa	Esh’ya
 Isa	Ishaya
 Isa	ا شعیا
-Isa	اش 3یا
 Isa	اشع یا
 Isa	اشعياء
 Isa	اشعيائ
@@ -4185,7 +5073,6 @@ Isa	esh'ā
 Isa	esh’a
 Isa	esh’ā
 Isa	īshiā
-Isa	اش3یا
 Isa	اشعيا
 Isa	اشعيه
 Isa	اشعيى
@@ -4335,14 +5222,11 @@ Jer	Yrmiya
 Jer	Yrm’ya
 Jer	yirmiy
 Jer	yirmīy
-Jer	ا رمیا
-Jer	ار میا
 Jer	ارمیاء
 Jer	ارمیاا
 Jer	ارمیاه
 Jer	ارمییا
 Jer	ارمییه
-Jer	اِر 3ا
 Jer	اِرميا
 Jer	اِرمیا
 Jer	اِرمیه
@@ -4357,7 +5241,103 @@ Jer	ارمیى
 Jer	ارمی
 Jer	Jer
 Jer	ارم
+Jer	ارمييا
+Jer	ارميياه
+Jer	ارميياها
+Jer	ارمييا-ها
+Jer	ارمييا‌ها
+Jer	ارمييا-ها‌ها
+Jer	ارمييا-ها-ها
+Jer	ارميیاه
+Jer	ارميياءِ
+Jer	ارميياي
+Jer	ارمييات
+Jer	ارمييات-ها
+Jer	ارمييات-ها-ها
+Jer	اِرمييا
+Jer	اِرميياءِ
+Jer	اِرمييات
+Jer	اِرمييا-ها
+Jer	اِرمييا‌ها
+Jer	اِرمييا-ها‌ها
+Jer	اِرمييا-ها-ها
+Jer	ارميياه-ها
+Jer	ارميياه‌ها
+Jer	ارميياتِه
+Jer	ارميياتُه
+Jer	ارميياتـه
+Jer	ارميياتها
+Jer	ارميياتها-ها
+Jer	ارميياها-ها
+Jer	ارمييا-يا
+Jer	ارمييات-يا
+Jer	اِرمييات-يا
+Jer	Armiyaa
+Jer	Ermiyaa
+Jer	Irmiiyaa
+Jer	Irmiiyah
+Jer	Irmiyaah
+Jer	Ermiiyaah
+Jer	Ermiiyah
+Jer	Ermiyaah
+Jer	Yrmiiyaah
+Jer	Yrmiiyah
+Jer	Yrmiiyaa
+Jer	Armiiyah
+Jer	Aarmiyaa
+Jer	Aarmiiyah
+Jer	Aarmiiaah
+Jer	Aermiyaa
+Jer	Aermiiyah
+Jer	Aermiiaah
+Jer	Armeyaa
+Jer	Armeyah
+Jer	Armiaah
+Jer	Armiaah-ha
+Jer	Armiaah-ha-ha
+Jer	Ermeyiaah
+Jer	Ermeyiaha
+Jer	Ermeyiah-ha
+Jer	Irmeiyaah
+Jer	Irmeiyaah-ha
+Jer	Irmeiyaah-ha-ha
+Jer	Yirmeiaah
+Jer	Yirmeiaah-ha
+Jer	Yirmeiaah-ha-ha
+Jer	yirmiiya
+Jer	yirmiiyaa
+Jer	yirmiiyaah
+Jer	yirmiyaah
+Jer	yirmiyaah-ha
+Jer	yirmiyaah-ha-ha
+Jer	ارميياتَ
+Jer	ارميياتَ-ها
+Jer	ارميياتِ
+Jer	ارميياتُ
+Jer	ارميياتُ-ها
+Jer	ارميياتُ-ها-ها
+Jer	ارميياتِ-ها
+Jer	اِرمييا-يا
+Jer	ارمييايي
+Jer	ارميياي-ها
+Jer	ارمييايي‌ها
+Jer	ارمييايي-ها
+Jer	اِرمييايي
+Jer	اِرميياي-ها
+Jer	اِرمييايي‌ها
+Jer	اِرمييايي-ها
+Jer	ارميياي‌ها
+Jer	اِرميياي‌ها
+Jer	اِرميياه
+Jer	اِرمييات-ها
+Jer	اِرميياي
+Jer	اِرمی
+Jer	ارمی‌ها
+Jer	ارمی-ها
+Jer	اِرمی‌ها
+Jer	اِرمی-ها
 Job	Aiyoob
+Job	ايوب
 Job	Ayyoob
 Job	Ayyoub
 Job	Eiyoob
@@ -4534,6 +5514,145 @@ Jonah	یونس
 Jonah	یونش
 Jonah	یونص
 Jonah	یون
+Jonah	يونس
+Jonah	يونس‌ها
+Jonah	يونس-ها
+Jonah	يونس‌ها‌ها
+Jonah	يونس-ها-ها
+Jonah	یونسی‌ها
+Jonah	یونسی-ها
+Jonah	یونسی‌ها‌ها
+Jonah	یونسی-ها-ها
+Jonah	یونس‌نامه
+Jonah	یونس‌نامه‌ها
+Jonah	یونس‌نامه-ها
+Jonah	یونس‌نامه‌ای
+Jonah	یونس‌نامه‌ی
+Jonah	یونس‌ای
+Jonah	یونس‌ات
+Jonah	یونس‌های
+Jonah	یونس‌ها‌ی
+Jonah	یونس‌یه
+Jonah	Yunus
+Jonah	Yoonus
+Jonah	Younus
+Jonah	Yonass
+Jonah	Yoonass
+Jonah	Younass
+Jonah	Yunass
+Jonah	Yonese
+Jonah	Yunese
+Jonah	Jonasah
+Jonah	Jonasse
+Jonah	Joonass
+Jonah	Joonase
+Jonah	Jonasseh
+Jonah	Joonassah
+Jonah	Yonisi
+Jonah	Yunusi
+Jonah	Yoonisi
+Jonah	Younisi
+Jonah	Yonasah
+Jonah	Yunasah
+Jonah	Yonuss
+Jonah	Yoonuss
+Jonah	Younuss
+Jonah	Yunuss
+Jonah	يونسّ
+Jonah	يونسي
+Jonah	يونسي‌ها
+Jonah	یونسیان
+Jonah	یونسی‌نامه
+Jonah	یونسی‌نامه‌ها
+Jonah	یونسی‌نامه‌ای
+Jonah	يونسيه
+Jonah	یونس‌ای‌ها
+Jonah	یونسی‌ای‌ها
+Jonah	یونس‌های‌نامه
+Jonah	Younasse
+Jonah	Younesi
+Jonah	Jonasi
+Jonah	Jonassi
+Jonah	Jounis
+Jonah	Joniss
+Jonah	Jonasse-i
+Jonah	Jonasse-y
+Jonah	Joonasse-i
+Jonah	Joonasse-y
+Jonah	Yunus-i
+Jonah	Yunus-y
+Jonah	Younas-i
+Jonah	Younas-y
+Jonah	Yoonus-i
+Jonah	Yoonus-y
+Jonah	Yonas-i
+Jonah	Yonas-y
+Jonah	يونسيه-ها
+Jonah	يونس-نامه
+Jonah	یونسیه-نامه
+Jonah	یونسی-نامه
+Jonah	Younes
+Jonah	Yunuse
+Jonah	Yunisi
+Jonah	Jounasi
+Jonah	Jounisse
+Jonah	یونس‌ها
+Jonah	یونس-ها
+Jonah	یونس‌ها‌ها
+Jonah	یونس-ها-ها
+Jonah	یونس‌ی
+Jonah	یونس‌نامه‌ی‌ها
+Jonah	یونسی‌نامه‌ی
+Jonah	یونس‌نامه‌ها‌ی
+Jonah	یونوس‌ها
+Jonah	حضرت یونس
+Jonah	حضرت یونس علیه السلام
+Jonah	یونس پیامبر
+Jonah	کتاب یونس
+Jonah	سوره یونس
+Jonah	داستان یونس
+Jonah	حکایت یونس
+Jonah	حکایات یونس
+Jonah	یونس‌نامه‌گان
+Jonah	یونس‌نامه‌اش
+Jonah	یونس‌های‌شان
+Jonah	یونسی‌های‌شان
+Jonah	یونس‌نامه‌یش
+Jonah	یونس‌نامه‌گی
+Jonah	یونس‌نامه‌گی‌ها
+Jonah	یونس‌نامه‌هات
+Jonah	یونس‌نامه‌شان
+Jonah	یُونُس
+Jonah	یُونُس‌ها
+Jonah	یُونَس
+Jonah	یُونَس‌ها
+Jonah	یُونُس-ها
+Jonah	یُونَس-ها
+Jonah	یُونوس
+Jonah	یُونُس‌نامه
+Jonah	یُونُس‌نامه‌ها
+Jonah	یُونَس‌نامه
+Jonah	یُونَس‌نامه‌ها
+Jonah	یُونُس‌نامه‌ای
+Jonah	Yoonoss
+Jonah	Yonusi
+Jonah	Younusi
+Jonah	Yoonusi
+Jonah	قصه یونس
+Jonah	ماجرای یونس
+Jonah	یُونوس‌ها
+Jonah	یُونوس-ها
+Jonah	یُونوس‌نامه
+Jonah	یُونوس‌نامه‌ها
+Jonah	یُونوس‌نامه‌ای
+Jonah	ماجرای حضرت یونس
+Jonah	داستان پیامبر یونس
+Jonah	یونس و ماهی
+Jonah	یونس در شکم ماهی
+Jonah	پیام یونس
+Jonah	دعای یونس
+Jonah	نجات یونس
+Jonah	یونس در نینوا
 Josh	Yosh'ua
 Josh	Yoshu'a
 Josh	Yoshuah
@@ -4604,6 +5723,73 @@ Jude	yūdā
 Jude	یهوذ
 Jude	yūd
 Jude	یهو
+Jude	يهودا
+Jude	يهوداها
+Jude	يهودا-ها
+Jude	يهودای
+Jude	يهودای‌ها
+Jude	يهودای-ها
+Jude	يهودا‌نامه
+Jude	يهودا‌نامه‌ها
+Jude	يهودا‌نامه‌ی
+Jude	يهودا‌نامه‌ای
+Jude	یهوذا
+Jude	یهوذاها
+Jude	یهوذا-ها
+Jude	یهوذای
+Jude	یهوذای‌ها
+Jude	یهوذای-ها
+Jude	یهوذا‌نامه
+Jude	یهوذا‌نامه‌ها
+Jude	یهوذا‌نامه‌ی
+Jude	یهوذا‌نامه‌ای
+Jude	يهودا مقدس
+Jude	يهودا رسول
+Jude	نامه یهودا
+Jude	رساله یهودا
+Jude	کتاب یهودا
+Jude	پیام یهودا
+Jude	موعظه یهودا
+Jude	پندهای یهودا
+Jude	درس‌های یهودا
+Jude	فرمان یهودا
+Jude	نامه یهوذا
+Jude	رساله یهوذا
+Jude	کتاب یهوذا
+Jude	پیام یهوذا
+Jude	موعظه یهوذا
+Jude	پندهای یهوذا
+Jude	درس‌های یهوذا
+Jude	يهودای مقدس
+Jude	يهوذای مقدس
+Jude	Yahoodaa
+Jude	Yahoodaa-ye
+Jude	Yehudaa
+Jude	Yehoodai
+Jude	Yehoodah
+Jude	Yahudai
+Jude	Yaahuda
+Jude	Yaahudah
+Jude	Yehoozda
+Jude	یهود
+Jude	یهودن
+Jude	یهود‌نامه
+Jude	یهود‌نام
+Jude	یهذ
+Jude	یهو‌نامه
+Jude	یهو‌نام
+Jude	يهودا‌ها
+Jude	يهودا‌نامه‌ی‌ها
+Jude	يهودا‌نامه‌هات
+Jude	يهودا‌نامه‌شان
+Jude	يهودا‌نامه‌گان
+Jude	یهودا‌نامه‌گی‌ها
+Jude	یهوذا‌ها
+Jude	یهوذا‌نامه‌ی‌ها
+Jude	یهوذا‌نامه‌هات
+Jude	یهوذا‌نامه‌شان
+Jude	یهوذا‌نامه‌گان
+Jude	یهوذا‌نامه‌گی‌ها
 Judg	Davaranan
 Judg	Davarane
 Judg	Davooran
@@ -4765,6 +5951,97 @@ Lam	مراث
 Lam	Lam
 Lam	مرا
 Lam	āh
+Lam	نوحه
+Lam	نوحه‌ها
+Lam	نوحه-ها
+Lam	نوحه‌ها‌ها
+Lam	نوحه-ها-ها
+Lam	نوحه‌نامه
+Lam	نوحه نامه
+Lam	نوحه‌نامه‌ها
+Lam	نوحه‌نامه-ها
+Lam	نوحه‌نامه-ها-ها
+Lam	نوحه‌نامه‌ها‌ها
+Lam	نوحه‌نامه‌ی
+Lam	نوحه‌نامه‌ای
+Lam	نوحه‌ای
+Lam	نوحه‌ات
+Lam	نوحه‌های
+Lam	سوگنامه
+Lam	سوگ‌نامه
+Lam	سوگنامه‌ها
+Lam	سوگ‌نامه‌ها
+Lam	سوگ‌نامه-ها
+Lam	سوگنامه-ها
+Lam	سوگنامه‌ها‌ها
+Lam	سوگنامه-ها-ها
+Lam	سوگنامه‌ای
+Lam	سوگ‌نامه‌ای
+Lam	سوگ‌نامه‌ی
+Lam	سوگنامه‌ی
+Lam	سوگنامه‌های
+Lam	سوگ‌نامه‌های
+Lam	سوگ نامه
+Lam	سوگ نامه‌ها
+Lam	سوگ نامه‌ای
+Lam	سوگ نامه-ها
+Lam	Nouhe
+Lam	Nooha
+Lam	Nooha-ha
+Lam	Sougnaameh
+Lam	Sougnaameha
+Lam	Soghnama
+Lam	Sogh-naameh
+Lam	Sogh-name
+Lam	نوحه‌گری
+Lam	نوحه‌سرایی
+Lam	نوحه‌گر
+Lam	نوحه‌سرای
+Lam	سوگ‌سرایی
+Lam	سوگ‌نامه‌سرایی
+Lam	سوگنامه‌گری
+Lam	Soug-nameh
+Lam	Sougnaameh-ha
+Lam	Soug-name
+Lam	Soug-nameha
+Lam	Soug-nameh-ha
+Lam	Soug-nameha-ha
+Lam	نوحه-نامه
+Lam	نوحه-نامه‌ها
+Lam	نوحه-نامه‌ای
+Lam	نوحه-نامه‌های
+Lam	نوحه‌گرایی
+Lam	نوحه‌ای-ها
+Lam	نوحه-ها-ای
+Lam	Soug-name-ee
+Lam	Soug-name-ha
+Lam	Soug-namee
+Lam	Soug-naame
+Lam	Sougnaame-ee
+Lam	Soug-naameha
+Lam	Soug-nameh-haa
+Lam	نوحه-گری‌ها
+Lam	نوحه‌سرایی‌ها
+Lam	سوگنامه‌ات
+Lam	Soug-name-y
+Lam	Soug-nameh-y
+Lam	Sougnaameh-y
+Lam	نوحه‌خوانی
+Lam	نوحه‌گو
+Lam	نوحه‌نویسی
+Lam	نوحه‌گو‌یان
+Lam	سوگنامه‌سرایی
+Lam	سوگنامه‌نگاری
+Lam	سوگ‌نویسی
+Lam	سوگ‌نامه‌نگار
+Lam	سوگ‌نامه‌گو
+Lam	سوگنامه‌گو
+Lam	سوگنامه‌خوان
+Lam	نوحه‌خوان
+Lam	نوحه‌نویس
+Lam	سوگنامه‌نگار
+Lam	سوگنامه‌نویس
+Lam	سوگ‌گری
 Lev	Lavvyian
 Lev	Laawian
 Lev	Lavayan
@@ -4797,6 +6074,50 @@ Lev	Lev
 Lev	law
 Lev	لاو
 Lev	لوی
+Lev	لويان
+Lev	لوئین
+Lev	لآویان
+Lev	laviyan
+Lev	لا-ویان
+Lev	لَوَیان
+Lev	لَویَان
+Lev	لاو-ویان
+Lev	لَوِیان
+Lev	لُویان
+Lev	لَوْیان
+Lev	لَویان
+Lev	لوویان
+Lev	لَوييان
+Lev	lōviyān
+Lev	lawiyān
+Lev	لوي-یان
+Lev	لاوی-یان
+Lev	لاویان‌ها
+Lev	لاویان‌ها‌ها
+Lev	لوی-یان
+Lev	لویان-ها
+Lev	لاءوی-یان
+Lev	لاءویان-ها
+Lev	لاؤی-یان
+Lev	لاؤیان-ها
+Lev	لاوي-یان
+Lev	لويان‌ها
+Lev	لاءویان‌ها
+Lev	لائویان-ها
+Lev	لاوویان‌ها
+Lev	Lawiyan
+Lev	Laawiyan
+Lev	Lavyān
+Lev	Lawiyān
+Lev	Lavyan
+Lev	Lawiyan-haa
+Lev	Laviyan-haa
+Lev	Lavvian
+Lev	Lavy
+Lev	Lavi
+Lev	لاوین
+Lev	لوي
+Lev	لاوی-ن
 Luke	Looqaat
 Luke	Lokaah
 Luke	Lokaat
@@ -5072,6 +6393,12 @@ Nah	ناحو
 Nah	نحوم
 Nah	Nah
 Nah	ناح
+Nah	ناحوم‌ها
+Nah	ناحوم‌ها‌ها
+Nah	ناحو-م
+Nah	ناحوما-ها
+Nah	Nah-um
+Nah	Nah-oum
 Neh	Neheemia
 Neh	Neheemya
 Neh	نِ حِمیا
@@ -5098,6 +6425,41 @@ Neh	nīmī
 Neh	نحمی
 Neh	Neh
 Neh	نحم
+Neh	نحيميا
+Neh	نحیمیا
+Neh	نحيمیه
+Neh	نحيمياً
+Neh	نحيميا-ها
+Neh	نحيميه
+Neh	نحيمیّه
+Neh	نحیمیاها
+Neh	نحيمیا
+Neh	Nehemyah
+Neh	Nehmya
+Neh	Nehemiah-ya
+Neh	Nehem-yah
+Neh	Nehemia-ya
+Neh	نِحِمیا-ها
+Neh	نحمیه-ها
+Neh	نحیم-یا
+Neh	نحيم-یا
+Neh	نحيم-يه
+Neh	نحيمیه-ها
+Neh	نِحِمیاه-ها
+Neh	نِحِمیه-ها
+Neh	نحيمياها
+Neh	نحيميا-یه
+Neh	نحيميا-ها‌ها
+Neh	نحيم-يا
+Neh	نحيميا-يا
+Neh	نحيم-یه
+Neh	نحيميا-یه‌ها
+Neh	نحيميه-ها
+Neh	نحيميا-يه
+Neh	نحيميه‌ها
+Neh	نحيميه-يا
+Neh	نحيم-ياها
+Neh	نحيم-يا-ها
 Num	A'edaad
 Num	A’edaad
 Num	E'edaad
@@ -5178,6 +6540,151 @@ Obad	Obad
 Obad	عوبد
 Obad	obd
 Obad	عوب
+Obad	عوبيديا
+Obad	عوبيدياها
+Obad	عوبيديا-ها
+Obad	عوبيديا‌ها
+Obad	عوبيديائي
+Obad	عوبيديائي-ها
+Obad	عوبيديائي‌ها
+Obad	عوبيديائيان
+Obad	عوبيديائيانه
+Obad	عوبيديات
+Obad	عوبيديات-ها
+Obad	عوبيديات‌ها
+Obad	عوبيديايي
+Obad	عوبيديايي‌ها
+Obad	عوبيديايي-ها
+Obad	عوبيدياي
+Obad	عوبيدياي-ها
+Obad	عوبيدياي‌ها
+Obad	Ubadia
+Obad	Ubedia
+Obad	Ubadya
+Obad	Ubadiya
+Obad	Ubadyah
+Obad	Oubadiya
+Obad	Oubadyah
+Obad	Ubad-iya
+Obad	Ubad-ya
+Obad	Ubad-yah
+Obad	Ubad-iyeh
+Obad	Ouba-dya
+Obad	Ouba-diyah
+Obad	Ouba-dia
+Obad	obadiyah
+Obad	obadiya
+Obad	Obadeyeh
+Obad	Obad-iya
+Obad	Obad-ya
+Obad	Obad-yah
+Obad	Ouba-di
+Obad	Oubadi
+Obad	Oubadiyeh
+Obad	عُوبيديا
+Obad	عُوبيدياها
+Obad	عُوبيديا-ها
+Obad	عُوبيديايي
+Obad	عُوبيديايي‌ها
+Obad	عُوبيديايي-ها
+Obad	عُوبيديائي
+Obad	عُوبيديائي-ها
+Obad	عُوبيديائي‌ها
+Obad	عُوبيديات
+Obad	عُوبيديات-ها
+Obad	عُوبيديات‌ها
+Obad	Uubadiya
+Obad	Oubadiyah
+Obad	Uubadiyah
+Obad	Obadya’i
+Obad	Obadiya’i
+Obad	Ubad-iya-i
+Obad	عوبیدیا
+Obad	عُوبیدیا
+Obad	عوبیدیاها
+Obad	عُوبیدیاها
+Obad	عوبیدیا-ها
+Obad	عُوبیدیا-ها
+Obad	عوبیدیايي
+Obad	عُوبیدیايي
+Obad	عوبیدیايي‌ها
+Obad	عُوبیدیايي‌ها
+Obad	عوبیدیايي-ها
+Obad	عُوبیدیايي-ها
+Obad	عوبیدیاي
+Obad	عُوبیدیاي
+Obad	عوبیدیاي-ها
+Obad	عُوبیدیاي-ها
+Obad	عوبیدیائی
+Obad	عُوبیدیائی
+Obad	عوبیدیائی‌ها
+Obad	عُوبیدیائی‌ها
+Obad	عوبیدیائی-ها
+Obad	عُوبیدیائی-ها
+Obad	عوبیدیائیان
+Obad	عُوبیدیائیان
+Obad	عوبیدیات
+Obad	عُوبیدیات
+Obad	عوبیدیات‌ها
+Obad	عُوبیدیات‌ها
+Obad	عوبیدیات-ها
+Obad	عُوبیدیات-ها
+Obad	عُوبدیاه
+Obad	عُوبدیاه‌ها
+Obad	عُوبدیاها
+Obad	عوبدیا-ها
+Obad	عُوبدیا-ها
+Obad	عُوبدیاي
+Obad	عوبدیايی
+Obad	عُوبدیايی
+Obad	عوبدیايی‌ها
+Obad	عُوبدیايی‌ها
+Obad	عوبدیايی-ها
+Obad	عُوبدیايی-ها
+Obad	عوبدیائی
+Obad	عُوبدیائی
+Obad	عوبدیائی‌ها
+Obad	عُوبدیائی‌ها
+Obad	عوبدیائی-ها
+Obad	عُوبدیائی-ها
+Obad	عوبدیات
+Obad	عُوبدیات
+Obad	عوبدیات‌ها
+Obad	عُوبدیات‌ها
+Obad	عوبدیات-ها
+Obad	عُوبدیات-ها
+Obad	Oubedia
+Obad	Ouba-diya
+Obad	Ubad-diya
+Obad	Ubad-diyah
+Obad	Ubadiyah
+Obad	Ubadiyeh
+Obad	obad-ya
+Obad	obad-iya
+Obad	obad-ya-ye
+Obad	obad-ya-ha
+Obad	obad-ya-y
+Obad	عوبدیايانه
+Obad	عُوبدیايانه
+Obad	عُوبدیای
+Obad	عوبدیائیان
+Obad	عُوبدیائیان
+Obad	عوبدیائیان‌ها
+Obad	عُوبدیائیان‌ها
+Obad	عوبدیای‌نامه
+Obad	عُوبدیای‌نامه
+Obad	عوبدیات‌نامه
+Obad	عُوبدیات‌نامه
+Obad	عوبدیات‌نامه‌ها
+Obad	عُوبدیات‌نامه‌ها
+Obad	عوبدیات‌نامه-ها
+Obad	عُوبدیات‌نامه-ها
+Obad	عوبدیا‌ها
+Obad	عُوبدیا‌ها
+Obad	عوبدیای-ها
+Obad	عُوبدیای-ها
+Obad	عوبدیا-یی
+Obad	عُوبدیا-یی
 Phil	Filipiyanians
 Phil	Filipyunians
 Phil	Philippians
@@ -5208,7 +6715,100 @@ Phil	Phil
 Phil	فلیپ
 Phil	فیلپ
 Phil	فیل
+Phil	فيليپيان
+Phil	فيليپيان‌ها
+Phil	فيليپيان-ها
+Phil	فيليپياني
+Phil	فيليپياني‌ها
+Phil	فيليپياني-ها
+Phil	فيليپيان‌نامه
+Phil	فيليپيان‌نامه‌ها
+Phil	فيليپيان‌نامه‌ی
+Phil	فيليپيان‌نامه‌ای
+Phil	فیلیپيان
+Phil	فیلیپيان‌ها
+Phil	فیلیپيان-ها
+Phil	فیلیپيانی
+Phil	فیلیپياني‌ها
+Phil	فیلیپياني-ها
+Phil	فیلیپيان‌نامه
+Phil	فیلیپيان‌نامه‌ها
+Phil	فیلیپيان‌نامه‌ی
+Phil	فیلیپيان‌نامه‌ای
+Phil	فيلیپيان
+Phil	فيلیپيان‌ها
+Phil	فيلیپيان-ها
+Phil	فيلیپياني
+Phil	فيلیپياني‌ها
+Phil	فيلیپياني-ها
+Phil	فيليپيون
+Phil	فيليپيون‌ها
+Phil	فيليپيون-ها
+Phil	فيلیپيه
+Phil	فيلیپيه‌ها
+Phil	فيلیپيه-ها
+Phil	فيلیپيه‌نامه
+Phil	فيلیپيه‌نامه‌ها
+Phil	فيلیپيه‌نامه‌ی
+Phil	فيلیپيه‌نامه‌ای
+Phil	فیلیپيون
+Phil	فیلیپيون‌ها
+Phil	فیلیپيون-ها
+Phil	فیلیپيه
+Phil	فیلیپيه‌ها
+Phil	فیلیپيه-ها
+Phil	Filipiyan
+Phil	Filipyon
+Phil	Fīlīppīān
+Phil	Filipiyon
+Phil	Philipi
+Phil	Philippean
+Phil	Fīlīppiān
+Phil	Philipes
+Phil	Filipiyun
+Phil	Fīlīpīān
+Phil	Fīlīpīyon
+Phil	Filippian
+Phil	Philipiun
+Phil	Fīlīpian
+Phil	کتاب فيليپيان
+Phil	رساله فيليپيان
+Phil	نامه فيليپيان
+Phil	پیام فيليپيان
+Phil	سخنان فيليپيان
+Phil	کتاب فیلیپيان
+Phil	رساله فیلیپيان
+Phil	نامه فیلیپيان
+Phil	پیام فیلیپيان
+Phil	سخنان فیلیپيان
+Phil	کتاب پیام‌های فيليپيان
+Phil	کتاب پیام‌های فیلیپيان
+Phil	حکایت فيليپيان
+Phil	فيليپيان‌نامه‌ی‌ها
+Phil	فيليپيان‌نامه‌هات
+Phil	فيليپيان‌نامه‌شان
+Phil	فيليپيان‌نامه‌هاتان
+Phil	فيليپيان‌نامه‌گان
+Phil	فيليپيان‌نامه‌گی‌ها
+Phil	فیلیپيان‌نامه‌ی‌ها
+Phil	فیلیپيان‌نامه‌هات
+Phil	فیلیپيان‌نامه‌شان
+Phil	فیلیپيان‌نامه‌گان
+Phil	فیلیپيان‌نامه‌گی‌ها
+Phil	فيلیپيون
+Phil	فيلیپيون‌ها
+Phil	فيلیپيون-ها
+Phil	فيلیپيوني
+Phil	فيلیپيون‌نامه
+Phil	فيلیپيان‌نامه
+Phil	فيلیپيون‌نامه‌ها
+Phil	فل
+Phil	فیل‌نامه
+Phil	فل‌ن
+Phil	فل‌نامه
+Phil	فیلپ‌نامه
 Phlm	Filimoonn
+Phlm	فِلیمُون
 Phlm	Filimount
 Phlm	Philemona
 Phlm	Philemoni
@@ -5254,6 +6854,76 @@ Phlm	Phlm
 Phlm	فلیم
 Phlm	فلم
 Phlm	فلی
+Phlm	فيلمان
+Phlm	فيلمان‌ها
+Phlm	فيلمان-ها
+Phlm	فيلمونی
+Phlm	فيلمونی‌ها
+Phlm	فيلمونی-ها
+Phlm	فيلمون‌نامه
+Phlm	فيلمون‌نامه‌ها
+Phlm	فيلمون‌نامه‌ی
+Phlm	فيلمون‌نامه‌ای
+Phlm	فیلمان
+Phlm	فیلمان‌ها
+Phlm	فیلمان-ها
+Phlm	فیلمونی‌ها
+Phlm	فیلمونی-ها
+Phlm	فیلمون‌نامه
+Phlm	فیلمون‌نامه‌ها
+Phlm	فیلمون‌نامه‌ی
+Phlm	فیلمون‌نامه‌ای
+Phlm	فيلمون
+Phlm	فيلمون‌ها
+Phlm	فيلمون-ها
+Phlm	فيلمونت
+Phlm	فيلمونه
+Phlm	فيلمونیی
+Phlm	فیلمانت
+Phlm	فیلمانه
+Phlm	Filimani
+Phlm	Filimaani
+Phlm	Fīlimoun
+Phlm	Fīlimun
+Phlm	Filimūn
+Phlm	Philemaan
+Phlm	Fīlīmon
+Phlm	Fīlīmun
+Phlm	Phlmoun
+Phlm	کتاب فيلمان
+Phlm	رساله فيلمان
+Phlm	نامه فيلمان
+Phlm	پیام فيلمان
+Phlm	سخنان فيلمان
+Phlm	کتاب فيلمون
+Phlm	رساله فيلمون
+Phlm	نامه فيلمون
+Phlm	پیام فيلمون
+Phlm	سخنان فيلمون
+Phlm	کتاب پیام‌های فيلمان
+Phlm	کتاب پیام‌های فيلمون
+Phlm	حکایت فيلمان
+Phlm	فيلمان‌نامه‌ها
+Phlm	فيلمان‌نامه‌ی‌ها
+Phlm	فيلمان‌نامه‌اش
+Phlm	فيلمان‌نامه‌هات
+Phlm	فيلمان‌نامه‌شان
+Phlm	فيلمان‌نامه‌هاتان
+Phlm	فيلمان‌نامه‌گان
+Phlm	فيلمان‌نامه‌گی‌ها
+Phlm	فيلمون‌نامه‌ی‌ها
+Phlm	فيلمون‌نامه‌اش
+Phlm	فيلمون‌نامه‌هات
+Phlm	فيلمون‌نامه‌شان
+Phlm	فيلمون‌نامه‌گان
+Phlm	فيلمون‌نامه‌گی‌ها
+Phlm	فيلمونی‌نامه
+Phlm	فیلمان‌نامه
+Phlm	فیلمان‌نامه‌ها
+Phlm	فیلمان‌نامه‌ی
+Phlm	فیلمان‌نامه‌ای
+Phlm	فیلم
+Phlm	فلم‌نامه
 PrAzar	Prayer of Azariah
 PrAzar	Pr Azar
 PrAzar	PrAzar
@@ -5303,6 +6973,108 @@ Prov	امثا
 Prov	امثل
 Prov	امصل
 Prov	امث
+Prov	امثالا
+Prov	امثـالا
+Prov	امثالاً
+Prov	امثالها
+Prov	امثال-ها
+Prov	امثال‌ها
+Prov	امثلاها
+Prov	امثلا-ها
+Prov	امثلات
+Prov	امثلاتی
+Prov	امثلات-ها
+Prov	امثلی
+Prov	امثالی
+Prov	امثیه
+Prov	امثیت
+Prov	امثال‌مان
+Prov	امثال‌تان
+Prov	امثـلات
+Prov	امثیات
+Prov	امثیا
+Prov	امثیاها
+Prov	امثیه‌ها
+Prov	امثیات-ها
+Prov	امثالاها
+Prov	امثالا-ها
+Prov	امثالمان
+Prov	امثالشان
+Prov	امثالشان-ها
+Prov	امثلی‌ها
+Prov	امثالی‌ها
+Prov	امثلاتی‌ها
+Prov	امثال‌های
+Prov	امثال‌هایی
+Prov	امثال‌تان-ها
+Prov	امثلات‌تان
+Prov	امثلاتشان
+Prov	امثال‌مان-ها
+Prov	امثالی-ها
+Prov	امثَالا
+Prov	امثالهاها
+Prov	امثـال‌ها
+Prov	امثـال-ها
+Prov	امثـالها
+Prov	امثـالاها
+Prov	امثالاءِ
+Prov	امثاليت
+Prov	امثالـيت
+Prov	امثليت
+Prov	امثيلا
+Prov	امثلاءِ
+Prov	امثلاتي
+Prov	امثلايي
+Prov	امثالات
+Prov	امثلايي‌ها
+Prov	امثلايي-ها
+Prov	امثلات‌ها
+Prov	امثلاتها
+Prov	امثلات-ها‌ها
+Prov	امثلات-ها-ها
+Prov	امثلي
+Prov	امثَلي
+Prov	امثيلي
+Prov	امثالي
+Prov	امثالا-ها-ها
+Prov	امثالا-ها‌ها
+Prov	Amsāla
+Prov	Amthāla
+Prov	Amthalā
+Prov	Amsālah
+Prov	Amthalah
+Prov	Amthālī
+Prov	Amsāli
+Prov	Amthāli
+Prov	Amsālī
+Prov	Am’sāla
+Prov	Am’sālah
+Prov	Am’thāla
+Prov	Am’thāli
+Prov	Amthala-haa
+Prov	Amthale-haa
+Prov	Amthal-ha
+Prov	Amthāle-ha
+Prov	Amsale-haa
+Prov	hikmāt-ha
+Prov	hikmā-la
+Prov	hikmāha
+Prov	hikmāha-ha
+Prov	hikmāya
+Prov	hikmāy-ha
+Prov	hikmā-la-ha
+Prov	Hikmālā
+Prov	Hikmatā
+Prov	Hikmatah
+Prov	hikmata-ha
+Prov	امثالهم
+Prov	امثلهما
+Prov	امثلاتيه
+Prov	امثلاتيه‌ها
+Prov	امثلاتيه-ها
+Prov	امثاليات
+Prov	امثاليات-ها
+Prov	امثالياتي
 Ps	Mazamoure
 Ps	Mazamurah
 Ps	Maz moor
@@ -5371,6 +7143,100 @@ Ps	مزمُ
 Ps	مزا
 Ps	مزم
 Ps	Ps
+Ps	Mazamir
+Ps	Mazamireh
+Ps	Mezamireh
+Ps	Mizamireh
+Ps	Mazamihr
+Ps	Mazamīr
+Ps	Mizamihr
+Ps	Mezamihr
+Ps	Mazamīreh
+Ps	Mazamirah
+Ps	Mazamīrah
+Ps	Mazami'r
+Ps	Mezamīr
+Ps	Mezami’r
+Ps	Mizami’r
+Ps	Mizāmīr
+Ps	Mazamoorah
+Ps	Mezmoorah
+Ps	Mizamoorah
+Ps	Mazmooreh
+Ps	Mazmoorah
+Ps	Mazamoo’r
+Ps	Mezmoo’r
+Ps	Mizamoo’r
+Ps	مزامير
+Ps	مزامیَر
+Ps	مزاميره
+Ps	مزاميَر
+Ps	مزاميِر
+Ps	مَزامير
+Ps	مِزامير
+Ps	مزامیرا
+Ps	مَزميَر
+Ps	مِزميَر
+Ps	مَزميِر
+Ps	مِزميِر
+Ps	مزامیرها
+Ps	مزامیر-ها
+Ps	مزمیرا
+Ps	مَزمیرا
+Ps	مِزمیرا
+Ps	مزامیره
+Ps	مزموُرها
+Ps	مزمورهای
+Ps	مزموُر-ها
+Ps	مَزموُر-ها
+Ps	مزموُره
+Ps	مزمور-ها
+Ps	مَزمور-ها
+Ps	مِزمور-ها
+Ps	مزموُرهاها
+Ps	مَزمُورها
+Ps	مِزمُورها
+Ps	مزموورها
+Ps	مزموَرها
+Ps	مزموُرها-ها
+Ps	مزموُر-ها-ها
+Ps	Māzāmīr
+Ps	Māzmooreh
+Ps	Māzāmīrah
+Ps	Māzāmī’r
+Ps	Māzamīrah
+Ps	mazamīrī
+Ps	Māzāmūre
+Ps	Māzamoorah
+Ps	Māzāmūr
+Ps	mazāmūrī
+Ps	مزاميري
+Ps	مزمیری
+Ps	مزاميری
+Ps	مزامي
+Ps	مزامی
+Ps	مزمي
+Ps	مَزمي
+Ps	مِزمي
+Ps	مزميِر
+Ps	zamīr
+Ps	zaboor
+Ps	زمير
+Ps	زبيري
+Ps	زُبُور
+Ps	زميرها
+Ps	زَبُور
+Ps	زمير-ها
+Ps	زبير-ها
+Ps	زبيري-ها
+Ps	زَبُور-ها
+Ps	زمير-ها-ها
+Ps	زبيرهاها
+Ps	زبور‌ها
+Ps	زبُور‌ها
+Ps	زَبُور‌ها
+Ps	زَبور‌ها
+Ps	زُبور‌ها
 Rev	makaashfehi
 Rev	makaashfevo
 Rev	makashefiah
@@ -5532,39 +7398,25 @@ SgThree	Song of the Three Young Men
 SgThree	SgThree
 Sir	Sirach
 Sir	Sir
-Song	Ghazal Ghazal_haa
 Song	Ghazal Ghazalhaaa
-Song	Ghazal_Ghazal_haa
 Song	Ghazal Ghazal ha
 Song	Ghazal Ghazal-ha
-Song	Ghazal Ghazal_ha
 Song	Ghazal Ghazalhaa
 Song	Ghazal-Ghazal-ha
-Song	Ghazal_Ghazal-ha
-Song	Ghazal_Ghazalhaa
-Song	Ghazl Ghazal_haa
 Song	Ghazl Ghazalhaaa
-Song	Ghazl_Ghazal_haa
 Song	Ghazal Ghazalha
 Song	Ghazal-Ghazalha
 Song	GhazalGhazal ha
 Song	GhazalGhazal-ha
-Song	GhazalGhazal_ha
 Song	GhazalGhazalhaa
-Song	Ghazal_Ghazalha
 Song	Ghazl Ghazal-ha
-Song	Ghazl Ghazal_ha
 Song	Ghazl Ghazalhaa
 Song	Ghazl-Ghazal-ha
-Song	Ghazl_Ghazal-ha
-Song	Ghazl_Ghazalhaa
 Song	GhazalGhazalha
 Song	Ghazl Ghazalha
 Song	Ghazl-Ghazalha
 Song	GhazlGhazal-ha
-Song	GhazlGhazal_ha
 Song	GhazlGhazalhaa
-Song	Ghazl_Ghazalha
 Song	GhazlGhazalha
 Song	غزلۀ غزلۀ ها
 Song	غزل غزل هاا
@@ -5586,9 +7438,60 @@ Song	shīr
 Song	غزلغ
 Song	غزلی
 Song	Sol
+Song	غزل غزل‌ها
+Song	غزلۀ غزلۀ-ها
+Song	غزلۀ غزلۀ‌ها
+Song	غزل غزل ها‌ها
+Song	غزل غزل ها-ها
+Song	غزل غزل‌ها‌ها
+Song	غزل غزلـها
+Song	غزل غزلـهاا
+Song	غزل غزل‌هاا
+Song	غزلغ غزل‌ها
+Song	غزلغزل‌ها‌ها
+Song	غزل غزل-ها
+Song	غزلغ غزلها
+Song	غزلغزل-ها
+Song	غزلغزل-هاا
+Song	غزل غزل‌ها‌ها‌ها
+Song	غزل غزل‌ها-ها
+Song	غزل غزل‌هاها
+Song	غزلغ غزل-ها
+Song	غزل غزلــها
+Song	غزلغزلــها
+Song	غزلغزل-ها‌ها
+Song	غزل غزل‌ها‌ها-ها
+Song	غزل غزلــهاا
+Song	غزلغزلــهاا
+Song	غزل غزل‌ها‌ها‌ها‌ها
+Song	غزله‌ها
+Song	غزلها
+Song	غزل‌ها
+Song	غزل‌ها‌ها
+Song	غزل-ها
+Song	غزل‌ها-ها
+Song	غزل‌هاها
+Song	غز
+Song	غ-ها
+Song	غزل‌ها‌ها‌ها
+Song	غزلغزل
+Song	غزل-غزل‌ها
+Song	غزلها‌ها
+Song	غزل سلیمان
+Song	غزل س
+Song	غزل سلی
+Song	Ghazal Ghazal’ha
+Song	Ghazal-Ghazal’ha
+Song	GhazalGhazalHaa
+Song	GhazlGhazal-Ha
+Song	غزلـغزل‌ها
+Song	Ghazal Ghazal-Ha-Haa
+Song	غزلـغزلـها
 Sus	Susannah
 Sus	Sus
 Titus	Taitoos
+Titus	تیطوس
+Titus	تیطُس
 Titus	Taitous
 Titus	Taytoos
 Titus	Taytous
@@ -5616,6 +7519,78 @@ Titus	تیتوص
 Titus	تیتو
 Titus	تیطس
 Titus	تیت
+Titus	تايتوس
+Titus	تايتوس‌ها
+Titus	تايتوس-ها
+Titus	تايتوسي
+Titus	تايتوسي‌ها
+Titus	تايتوسي-ها
+Titus	تايتوس‌نامه
+Titus	تايتوس‌نامه‌ها
+Titus	تايتوس‌نامه‌ی
+Titus	تايتوس‌نامه‌ای
+Titus	تای‌توس
+Titus	تای‌توس‌ها
+Titus	تای‌توس-ها
+Titus	تایتوسی
+Titus	تایتوسی‌ها
+Titus	تایتوسی-ها
+Titus	تایتوس‌نامه
+Titus	تيتوس‌ها
+Titus	تيتوس-ها
+Titus	تيتوسي
+Titus	تيتوسي‌ها
+Titus	تيتوسي-ها
+Titus	تيتوس‌نامه
+Titus	تيتوس‌نامه‌ها
+Titus	تيتوس‌نامه‌ی
+Titus	تيتوس‌نامه‌ای
+Titus	تیتوث‌ها
+Titus	تیتوث-ها
+Titus	تیتوص‌ها
+Titus	تیتوص-ها
+Titus	تیتوش‌ها
+Titus	تیتوش-ها
+Titus	Taitūṣ
+Titus	Tayṭus
+Titus	Tītūs
+Titus	Titūs
+Titus	Tīṭus
+Titus	Tāitus
+Titus	Titusian
+Titus	Taytūsian
+Titus	Tayṭusian
+Titus	کتاب تايتوس
+Titus	رساله تايتوس
+Titus	نامه تايتوس
+Titus	پیام تايتوس
+Titus	سخنان تايتوس
+Titus	کتاب تيتوس
+Titus	رساله تيتوس
+Titus	نامه تيتوس
+Titus	پیام تيتوس
+Titus	سخنان تيتوس
+Titus	کتاب پیام‌های تايتوس
+Titus	کتاب پیام‌های تيتوس
+Titus	حکایت تايتوس
+Titus	تايتوس‌نامه‌ی‌ها
+Titus	تايتوس‌نامه‌هات
+Titus	تايتوس‌نامه‌شان
+Titus	تايتوس‌نامه‌هاتان
+Titus	تايتوس‌نامه‌گان
+Titus	تايتوس‌نامه‌گی‌ها
+Titus	تيتوس‌نامه‌ی‌ها
+Titus	تيتوس‌نامه‌هات
+Titus	تيتوس‌نامه‌شان
+Titus	تيتوس‌نامه‌گان
+Titus	تيتوس‌نامه‌گی‌ها
+Titus	تایتوس
+Titus	تای‌توسی
+Titus	تایتوس‌ها
+Titus	تای‌توس‌نامه
+Titus	تي
+Titus	تيت
+Titus	تاي
 Tob	Tobit
 Tob	Tob
 Wis	Wisdom
@@ -5662,6 +7637,72 @@ Zech	زکریا
 Zech	Zech
 Zech	زکری
 Zech	زکر
+Zech	زکريا
+Zech	زکرياها
+Zech	زکريا-ها
+Zech	زکريا‌ی
+Zech	زکريا‌ای
+Zech	زکريا‌نامه
+Zech	زکريا‌نامه‌ها
+Zech	زکريا‌نامه‌ی
+Zech	زکريا‌نامه‌ای
+Zech	زکریاها
+Zech	زکریا-ها
+Zech	زکریا‌ی
+Zech	زکریا‌ای
+Zech	زکریا‌نامه
+Zech	زکریا‌نامه‌ها
+Zech	زکریا‌نامه‌ی
+Zech	زکریا‌نامه‌ای
+Zech	کتاب زکريا
+Zech	کتاب زکریا
+Zech	رساله زکريا
+Zech	رساله زکریا
+Zech	نامه زکريا
+Zech	نامه زکریا
+Zech	پیام زکريا
+Zech	پیام زکریا
+Zech	سخنان زکريا
+Zech	سخنان زکریا
+Zech	کتاب پیام‌های زکريا
+Zech	کتاب پیام‌های زکریا
+Zech	حکایت زکريا
+Zech	حکایت زکریا
+Zech	زکريا‌نامه‌ی‌ها
+Zech	زکريا‌نامه‌هات
+Zech	زکريا‌نامه‌شان
+Zech	زکريا‌نامه‌هاتان
+Zech	زکريا‌نامه‌گان
+Zech	زکريا‌نامه‌گی‌ها
+Zech	زکریا‌نامه‌ی‌ها
+Zech	زکریا‌نامه‌هات
+Zech	زکریا‌نامه‌شان
+Zech	زکریا‌نامه‌هاتان
+Zech	زکریا‌نامه‌گان
+Zech	زکریا‌نامه‌گی‌ها
+Zech	زَکريا
+Zech	زَکریا
+Zech	زَکرياها
+Zech	زَکریاها
+Zech	زَکريا-ها
+Zech	زَکریا-ها
+Zech	زَکريا‌نامه
+Zech	زَکریا‌نامه
+Zech	زَکريا‌نامه‌ها
+Zech	زَکریا‌نامه‌ها
+Zech	زَکريا‌نامه‌ی
+Zech	زَکریا‌نامه‌ی
+Zech	Zakaraya
+Zech	Zakhariya
+Zech	Zakhariah
+Zech	Zakarayah
+Zech	Zakaraiya
+Zech	Zekhariah
+Zech	Zejarī
+Zech	Zejarīyā
+Zech	Zejarīy
+Zech	زک
+Zech	زک‌نامه
 Zeph	Zephanaya
 Zeph	Zephaniah
 Zeph	صَفَنیاءء
@@ -5701,3 +7742,88 @@ Zeph	Zeph
 Zeph	صفنی
 Zeph	zof
 Zeph	صفن
+Zeph	ضفينيا
+Zeph	ضفينياها
+Zeph	ضفينيا-ها
+Zeph	ضفينيا‌ی
+Zeph	ضفينيا‌ای
+Zeph	ضفينيا‌یی
+Zeph	ضفينيای
+Zeph	ضفينيا‌ای‌ها
+Zeph	ضفينيا‌نامه
+Zeph	ضفينيا‌نامه‌ها
+Zeph	ضفينيا‌نامه‌ی
+Zeph	ضفينيا‌نامه‌ای
+Zeph	ضفينيا‌نامه‌ها‌ی
+Zeph	صفینیا
+Zeph	صفینیاها
+Zeph	صفینیا-ها
+Zeph	صفینیا‌ی
+Zeph	صفینیا‌ای
+Zeph	صفینيا‌نامه
+Zeph	صفینيا‌نامه‌ها
+Zeph	صفینيا‌نامه‌ی
+Zeph	صفینيا‌نامه‌ای
+Zeph	صفينيا
+Zeph	صَفینیا
+Zeph	صَفینيا
+Zeph	صَفینياها
+Zeph	صفینيا‌یی
+Zeph	صَفینيا‌یی
+Zeph	صَفینيا‌ی‌ها
+Zeph	Zofinya
+Zeph	Zofinia
+Zeph	Dhofinya
+Zeph	Dhofinia
+Zeph	Zefinya
+Zeph	Zofeniya
+Zeph	Zofeniyah
+Zeph	Dhofeniya
+Zeph	Dhofeniyah
+Zeph	Zefeniya
+Zeph	Zefeniyah
+Zeph	Zof-nia
+Zeph	Dhof-nia
+Zeph	Zef-nia
+Zeph	Zofaniyah
+Zeph	Dhofaniyah
+Zeph	Zefaniyah
+Zeph	Zofania
+Zeph	Dhofania
+Zeph	Zofenya
+Zeph	Dhofenya
+Zeph	Zefenya
+Zeph	کتاب ضفينيا
+Zeph	رساله ضفينيا
+Zeph	نامه ضفينيا
+Zeph	ضفينيا نبی
+Zeph	سخنان ضفينيا
+Zeph	دعای ضفينيا
+Zeph	پیام ضفينيا
+Zeph	حکایت ضفينيا
+Zeph	کتاب پیام‌های ضفينيا
+Zeph	کتاب صفینیا
+Zeph	پیام صفینيا
+Zeph	صفینيا نبی
+Zeph	ضفينيا‌نامه‌ی‌ها
+Zeph	ضفينيا‌نامه‌هات
+Zeph	ضفينيا‌نامه‌شان
+Zeph	ضفينيا‌نامه‌هاتان
+Zeph	ضفينيا‌های‌شان
+Zeph	ضفينيا‌نامه‌گی‌ها
+Zeph	صفینيا‌ها
+Zeph	صفینيا‌نامه‌ی‌ها
+Zeph	صفینيا‌نامه‌شان
+Zeph	ضف
+Zeph	ضفیا
+Zeph	ضف‌نامه
+Zeph	ضف‌ن
+Zeph	ضف‌نیا
+Zeph	ضف‌نامه‌ها
+Zeph	صف
+Zeph	صف‌نامه
+Zeph	صف‌نامه‌ها
+Zeph	صف‌ن
+Zeph	صف‌نامه‌ی
+Zeph	صف‌نامه‌گان
+Zeph	صفن‌نامه
