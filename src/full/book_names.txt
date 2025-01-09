@@ -1045,6 +1045,7 @@
 1Chr	I Pa
 1Chr	I Sử
 1Chr	۱tow
+1Chr	۱توا
 1Chr	《代上》
 1Chr	《歷上》
 1Chr	历代志上
@@ -8609,6 +8610,7 @@
 1Sam	1. Sm
 1Sam	1sāmu
 1Sam	1سامو
+1Sam	1سموی
 1Sam	I Sam
 1Sam	I Sma
 1Sam	I Sám
@@ -8617,6 +8619,7 @@
 1Sam	I. Sm
 1Sam	۱sāmu
 1Sam	۱سامو
+1Sam	۱سموی
 1Sam	Ⅰサムエル
 1Sam	サムエル上
 1Sam	撒慕爾紀上
@@ -12497,6 +12500,7 @@
 2Chr	2tow
 2Chr	2توا
 2Chr	۲tow
+2Chr	۲توا
 2Chr	《代下》
 2Chr	《歷下》
 2Chr	历代志下
@@ -20024,11 +20028,13 @@
 2Sam	2. Sm
 2Sam	2sāmu
 2Sam	2سامو
+2Sam	2سموی
 2Sam	II Sa
 2Sam	II Sm
 2Sam	II. S
 2Sam	۲sāmu
 2Sam	۲سامو
+2Sam	۲سموی
 2Sam	Ⅱサムエル
 2Sam	サムエル下
 2Sam	撒慕爾紀下
@@ -29154,6 +29160,7 @@ Esth	에스텔
 Esth	Es
 Esth	Et
 Esth	أس
+Esth	اس
 Esth	《斯
 Esth	斯》
 Esth	에스
@@ -30044,10 +30051,6 @@ Ezra	Ezdras
 Ezra	Ezdraš
 Ezra	Ezdrás
 Ezra	Ezdráš
-Ezra	Ezra a
-Ezra	Ezra h
-Ezra	Izra a
-Ezra	Izra h
 Ezra	eǳrako
 Ezra	eǳrāko
 Ezra	Έσδρας
@@ -30152,6 +30155,7 @@ Ezra	에스라
 Ezra	에즈라
 Ezra	Ed
 Ezra	Εσ
+Ezra	عز
 Ezra	Ἔσ
 Ezra	《拉
 Ezra	拉》
@@ -31254,6 +31258,7 @@ Gen	Gn
 Gen	Gé
 Gen	Γε
 Gen	تك
+Gen	پی
 Gen	《创
 Gen	《創
 Gen	创》
@@ -34930,6 +34935,7 @@ Josh	Jš
 Josh	Ιη
 Josh	Єг
 Josh	يش
+Josh	یش
 Josh	Ἰη
 Josh	《书
 Josh	《書
@@ -36588,6 +36594,7 @@ Lev	Lavi
 Lev	Lavy
 Lev	Levi
 Lev	lawi
+Lev	لاوی
 Lev	लेवि
 Lev	लेवी
 Lev	லேவி
@@ -40293,6 +40300,7 @@ Phil	腓立比书
 Phil	腓立比書
 Phil	빌립보서
 Phil	필리피서
+Phil	Fil
 Phil	Flp
 Phil	Phi
 Phil	Php
@@ -40312,7 +40320,6 @@ Phil	腓》
 Phil	필리
 Phil	腓
 Phil	빌
-Phil,Phlm	Fil
 Phil,Phlm	Phl
 Phil,Phlm	Ph
 Phlm	Послання св. апостола Павла до Филимона
@@ -42811,6 +42818,13 @@ Ruth	Ruthi
 Ruth	Ruthu
 Ruth	rūthī
 Ruth	راعوث
+Ruth	روتهـ
+Ruth	روُتی
+Ruth	روٗتی
+Ruth	رُوته
+Ruth	رُوتی
+Ruth	رُوُت
+Ruth	رُوٹی
 Ruth	रूथको
 Ruth	《盧德傳》
 Ruth	《路得記》
@@ -42830,11 +42844,23 @@ Ruth	rūtʰ
 Ruth	Ρουθ
 Ruth	Рута
 Ruth	Руфь
+Ruth	روتؒ
+Ruth	روتؓ
 Ruth	روتت
 Ruth	روتـ
 Ruth	روته
+Ruth	روتہ
+Ruth	روتۃ
 Ruth	روتی
+Ruth	روطت
+Ruth	روطہ
+Ruth	روُت
+Ruth	روُث
+Ruth	روٖت
+Ruth	روٗت
 Ruth	رُوت
+Ruth	رُوط
+Ruth	رُوٿ
 Ruth	ரூத்
 Ruth	《盧德傳
 Ruth	《路得記
@@ -42854,6 +42880,10 @@ Ruth	רות
 Ruth	روت
 Ruth	روث
 Ruth	روط
+Ruth	روٹ
+Ruth	روټ
+Ruth	روٿ
+Ruth	روۃ
 Ruth	رۆت
 Ruth	रुत
 Ruth	रूत
