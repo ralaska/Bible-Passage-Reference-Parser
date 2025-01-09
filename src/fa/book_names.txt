@@ -9,6 +9,7 @@
 1Chr	1 تواریک
 1Chr	1 تواریکه
 1Chr	1Chr
+1Chr	۱توا
 1Chr	1Tawarikh
 1Chr	1Toarikh
 1Chr	1Towarikh
@@ -1059,6 +1060,7 @@
 1Pet	۱پطرصى
 1Pet	۱پطرصی
 1Sam	1 Samoeil
+1Sam	۱سموی
 1Sam	1 Samouel
 1Sam	1 Samoweyl
 1Sam	1 Samowil
@@ -1709,6 +1711,7 @@
 2Chr	2 تواریک
 2Chr	2 تواریکه
 2Chr	2Chr
+2Chr	۲توا
 2Chr	2Tawarikh
 2Chr	2Toarikh
 2Chr	2Towarikh
@@ -2756,6 +2759,7 @@
 2Pet	۲پطرصى
 2Pet	۲پطرصی
 2Sam	2 Samoeil
+2Sam	۲سموی
 2Sam	2 Samouel
 2Sam	2 Samoweyl
 2Sam	2 Samowil
@@ -4282,6 +4286,7 @@ Eph	کتاب پیام‌های افِسسيان
 Esth	Estehr
 Esth	Ester
 Esth	Esth
+Esth	اس
 Esth	Esther
 Esth	Esthr
 Esth	Estr
@@ -4413,13 +4418,10 @@ Ezek	حِزکیل
 Ezek	حِزکیلی
 Ezek	حِزکییال
 Ezra	Ezra
-Ezra	Ezra a
-Ezra	Ezra h
+Ezra	عز
 Ezra	Ezraa
 Ezra	Ezrah
 Ezra	Izra
-Ezra	Izra a
-Ezra	Izra h
 Ezra	Izraa
 Ezra	Izrah
 Ezra	ezr
@@ -4566,6 +4568,7 @@ Gal	کتاب غلطيان
 Gal	کتاب پیام‌های غلاطيان
 Gal	کتاب پیام‌های غلطيان
 Gen	Gen
+Gen	پی
 Gen	Pedaayesh
 Gen	Pedaish
 Gen	Pedaiyesh
@@ -5653,6 +5656,7 @@ Jonah	یُونُس‌نامه‌ای
 Jonah	یُونُس‌نامه‌ها
 Jonah	یُونُس‌ها
 Josh	Josh
+Josh	یش
 Josh	Yosh'ua
 Josh	Yosha
 Josh	Yoshu'a
@@ -6086,6 +6090,7 @@ Lev	لاوئیان
 Lev	لاوویان
 Lev	لاوویان‌ها
 Lev	لاوي-یان
+Lev	لاوی
 Lev	لاويان
 Lev	لاوی-ن
 Lev	لاوی-یان
@@ -6399,6 +6404,7 @@ Nah	ناحوم‌ها‌ها
 Nah	ناحووم
 Nah	نحوم
 Neh	Neh
+Neh	نح
 Neh	Neheemia
 Neh	Neheemya
 Neh	Nehem-yah
@@ -7393,6 +7399,58 @@ Ruth	روتی
 Ruth	روث
 Ruth	روط
 Ruth	رۆت
+Ruth	روُت
+Ruth	رُوت
+Ruth	روٗت
+Ruth	رُوته
+Ruth	روُتی
+Ruth	رُوٹی
+Ruth	روُث
+Ruth	رُوط
+Ruth	رُوُت
+Ruth	روٹ
+Ruth	روتہ
+Ruth	روتۃ
+Ruth	روتؒ
+Ruth	روتؓ
+Ruth	روۃ
+Ruth	روطہ
+Ruth	روطت
+Ruth	روٿ
+Ruth	روټ
+Ruth	روٖت
+Ruth	روٗتی
+Ruth	رُوتی
+Ruth	رُوٿ
+Ruth	روتهـ
+Ruth	روت
+Ruth	روتت
+Ruth	روتـ
+Ruth	روته
+Ruth	روتی
+Ruth	روث
+Ruth	روط
+Ruth	رۆت
+Ruth	روُت
+Ruth	رُوت
+Ruth	روٗت
+Ruth	رُوته
+Ruth	روُتی
+Ruth	رُوٹی
+Ruth	روُث
+Ruth	رُوط
+Ruth	روٹ
+Ruth	روتہ
+Ruth	روتۃ
+Ruth	روۃ
+Ruth	روطہ
+Ruth	روطت
+Ruth	روٿ
+Ruth	روټ
+Ruth	روٖت
+Ruth	رُوتی
+Ruth	رُوٿ
+Ruth	روتهـ
 SgThree	SgThree
 SgThree	Song of the Three Young Men
 Sir	Sir
